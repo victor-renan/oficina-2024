@@ -13,6 +13,7 @@ package.json
 src/
   models/ <- entidades do sistema 
   services/ <- operações com as entidades
+  database/ <- definição da conexão com o BD
   controllers/ <- controladores que roteam cada operação
   index.js <- inicialização do servidor
 ```
