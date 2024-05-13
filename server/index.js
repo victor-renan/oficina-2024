@@ -1,8 +1,8 @@
 import express from 'express'
 import cors from 'cors'
 import dotenv from 'dotenv'
-import userController from './controllers/user.js'
-import authController from './controllers/auth.js'
+import userController from './src/controllers/user.js'
+import authController from './src/controllers/auth.js'
 
 dotenv.config({ path: ['.env'] })
 
