@@ -8,8 +8,5 @@ import { RouterLink } from 'vue-router'
         <li>
             <RouterLink to="/medicamentos">Medicamentos</RouterLink>
         </li>
-        <li>
-            <RouterLink to="/fornecedores">Fornecedores</RouterLink>
-        </li>
     </ul>
 </template>

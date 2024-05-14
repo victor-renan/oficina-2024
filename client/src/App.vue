@@ -26,9 +26,6 @@ function logout() {
           <li class="nav-item">
             <RouterLink to="/medicamentos" class="nav-link">Medicamentos</RouterLink>
           </li>
-          <li class="nav-item">
-            <RouterLink to="/fornecedores" class="nav-link">Fornecedores</RouterLink>
-          </li>
         </ul>
         <ul class="navbar-nav">
           <li class="nav-item">
