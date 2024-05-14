@@ -4,16 +4,6 @@
 
 :date: 2024-05-07
 
-## O Servidor
+## Links
 
-### Estrutura
-
-```
-package.json
-src/
-  models/ <- entidades do sistema 
-  services/ <- operações com as entidades
-  database/ <- definição da conexão com o BD
-  controllers/ <- controladores que roteam cada operação
-  index.js <- inicialização do servidor
-```
+INSOMNIUM: https://github.com/ArchGPT/insomnium/releases/download/core%400.2.3-a/Insomnium.Core-0.2.3-a-portable.exe
